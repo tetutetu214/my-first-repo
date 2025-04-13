@@ -1,1 +1,3 @@
-# My First Repository\n\nThis is my updated README file.
+# My First Repository
+
+This is my updated README file.
